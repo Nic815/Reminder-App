@@ -119,5 +119,27 @@ The app follows a **modular MVVM-inspired structure** using SwiftData for persis
 - **SF Symbols** — Used for list icons.  
 
 ---
+## 🏃‍♂️ How to Run
+
+📂 **Clone this repository**
+
+git clone [https://github.com/Nic815/ReminderApp.git](https://github.com/Nic815/Reminder-App.git)
+cd ReminderApp
+## 🧰 Open the Project in Xcode 15 or Later
+
+- Launch `Reminder App.xcodeproj` in **Xcode 15 or newer**.
+
+---
+
+## 🔑 (Optional) Add Your Firebase Configuration File
+
+If your project uses **Firebase**, place the `GoogleService-Info.plist` file inside the project’s **root directory**.
+
+---
+
+## ▶️ Build and Run
+
+- Select an **iOS 17+ simulator** or a physical device.  
+- Press **Cmd + R** or click **Run** to start the app.
 
 
