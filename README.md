@@ -122,9 +122,10 @@ The app follows a **modular MVVM-inspired structure** using SwiftData for persis
 ## 🏃‍♂️ How to Run
 
 📂 **Clone this repository**
-
+```bash
 git clone [https://github.com/Nic815/ReminderApp.git](https://github.com/Nic815/Reminder-App.git)
 cd ReminderApp
+```
 ## 🧰 Open the Project in Xcode 15 or Later
 
 - Launch `Reminder App.xcodeproj` in **Xcode 15 or newer**.
