@@ -15,21 +15,31 @@ It features categorized reminder lists, customizable icons, real-time updates, a
 - 📅 **Instant Editing:** Add or edit reminders inline — no extra screens required.
 
 ---
-## 🖼️ App Preview
+## 📸 Screenshots
 
-Here’s a glimpse of the **Reminder App** in action 👇  
+<table>
+  <tr>
+    <td align="center">
+      <strong> Home Screen </strong><br>
+      <img src="https://github.com/user-attachments/assets/e861447c-7211-4cfb-9e9e-01dde8e80299" width="250" alt="Home Screen">
+    </td>
+    <td align="center">
+      <strong> Create Section </strong><br>
+      <img src="https://github.com/user-attachments/assets/5b4aee34-951c-4eeb-aae0-f03b9c5226b7" width="250" alt="Create Section">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong> Reminder List </strong><br>
+      <img src="https://github.com/user-attachments/assets/0aa71433-b3d9-4436-9d94-a7253a7d9373" width="250" alt="Reminder List">
+    </td>
+    <td align="center">
+      <strong> Completed Task </strong><br>
+      <img src="https://github.com/user-attachments/assets/2b5a486b-24d6-43d1-9ce9-612ac8264e88" width="250" alt="Completed Task">
+    </td>
+  </tr>
+</table>
 
-| Home Screen | Create Section | Reminder List |
-|--------------|----------------|----------------|
-| ![Home Screen](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-24 at 12 16 52" src="https://github.com/user-attachments/assets/e861447c-7211-4cfb-9e9e-01dde8e80299" />
-) | ![Create Section](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-24 at 12 16 42" src="https://github.com/user-attachments/assets/5b4aee34-951c-4eeb-aae0-f03b9c5226b7" />
-) | ![Reminder List](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-24 at 12 18 48" src="https://github.com/user-attachments/assets/0aa71433-b3d9-4436-9d94-a7253a7d9373" />
-) |
-
-| Completed Task | 
-|---------------|
-| ![Completed Task](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-24 at 12 19 07" src="https://github.com/user-attachments/assets/2b5a486b-24d6-43d1-9ce9-612ac8264e88" />
-) | 
 
 
 
