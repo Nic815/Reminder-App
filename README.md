@@ -15,7 +15,29 @@ It features categorized reminder lists, customizable icons, real-time updates, a
 - 📅 **Instant Editing:** Add or edit reminders inline — no extra screens required.
 
 ---
+## 🖼️ App Preview
 
+Here’s a glimpse of the **Reminder App** in action 👇  
+
+| Home Screen | Create Section | Reminder List |
+|--------------|----------------|----------------|
+| ![Home Screen](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-24 at 12 16 52" src="https://github.com/user-attachments/assets/e861447c-7211-4cfb-9e9e-01dde8e80299" />
+) | ![Create Section](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-24 at 12 16 42" src="https://github.com/user-attachments/assets/5b4aee34-951c-4eeb-aae0-f03b9c5226b7" />
+) | ![Reminder List](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-24 at 12 18 48" src="https://github.com/user-attachments/assets/0aa71433-b3d9-4436-9d94-a7253a7d9373" />
+) |
+
+| Completed Task | 
+|---------------|
+| ![Completed Task](<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-09-24 at 12 19 07" src="https://github.com/user-attachments/assets/2b5a486b-24d6-43d1-9ce9-612ac8264e88" />
+) | 
+
+
+
+
+
+
+
+---
 ## 🏗️ Architecture
 The app follows a **modular MVVM-inspired structure** using SwiftData for persistence.
 
@@ -88,8 +110,4 @@ The app follows a **modular MVVM-inspired structure** using SwiftData for persis
 
 ---
 
-## 🚀 Setup Instructions
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/YourUsername/ReminderApp.git
-   cd ReminderApp
+
